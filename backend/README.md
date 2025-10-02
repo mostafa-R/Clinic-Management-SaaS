@@ -429,7 +429,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Mostafa Ramadan - [Initial work](https://github.com/mostafa-R)
 
 ## 🙏 Acknowledgments
 
