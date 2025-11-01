@@ -431,12 +431,6 @@ This project is licensed under the ISC License.
 
 - Mostafa Ramadan - [Initial work](https://github.com/mostafa-R)
 
-## 🙏 Acknowledgments
-
-- Express.js team
-- MongoDB team
-- All contributors
-
 ---
 
 **Version**: 1.0.0  
